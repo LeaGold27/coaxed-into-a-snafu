@@ -1,2 +1,2 @@
 # coaxed-into-a-snafu
-Phishing education website
+Phishing education website for a school project
